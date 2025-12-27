@@ -1,5 +1,5 @@
 EE-250 FINAL PROJECT: PLANE DETECTOR
-[Scored a 100% & Achieved an X-Factor Distinction]
+*Scored a 100% & Achieved an X-Factor Distinction*
 Chris Tian & Timothy Hutapea
 
 Dependencies
