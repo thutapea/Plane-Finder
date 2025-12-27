@@ -1,6 +1,6 @@
 EE-250 FINAL PROJECT: PLANE DETECTOR
 Chris Tian & Timothy Hutapea
-![Plane flying overhead](image.jpg)
+<img src="image.jpg" alt="Plane flying overhead] width="300" height="200">
 Dependencies
 
 This project consists of  a Python server and a 
