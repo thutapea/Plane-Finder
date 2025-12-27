@@ -1,6 +1,6 @@
 EE-250 FINAL PROJECT: PLANE DETECTOR
 Chris Tian & Timothy Hutapea
-![Alt text](image_url)
+![Plane flying overhead](image.jpg)
 Dependencies
 
 This project consists of  a Python server and a 
